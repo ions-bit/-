@@ -1,0 +1,11 @@
+{
+  "display_name": "GPT Web Skin",
+  "loading_order": 100,
+  "requires": [],
+  "optional": [],
+  "js": "loader-2.0.118.js",
+  "author": "ions-bit",
+  "version": "4.2.0",
+  "homePage": "https://github.com/ions-bit/-",
+  "auto_update": true
+}
